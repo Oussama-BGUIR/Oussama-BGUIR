@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama BGUIR</h1>
 <h3 align="center">A Software Engineering Student From Tunisia.</h3>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sayed ben slimene" height="30" width="40" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-bguir&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-bguir" /> </p>
 
