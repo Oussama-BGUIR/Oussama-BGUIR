@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Framework Symfony and JavaFx**
 
-- 👨‍💻 All of my projects are available Here [And in LinkedIn](And in LinkedIn)
+- 👨‍💻 All of my projects are available Here [And with more description and details in LinkedIn]
 
 - 📫 How to reach me **oussama.bguir@ieee.org**
 
