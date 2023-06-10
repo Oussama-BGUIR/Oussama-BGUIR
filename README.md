@@ -3,7 +3,6 @@
 <h3 align="center">A Software Engineering Student From Tunisia.</h3>
 
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/8143b9_6d9b39056fcd4946ba9667c07d32bd7d~mv2.gif/v1/fill/w_600,h_600,al_c/8143b9_6d9b39056fcd4946ba9667c07d32bd7d~mv2.gif">
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-bguir&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-bguir" /> </p>
 
