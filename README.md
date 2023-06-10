@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oussama BGUIR</h1>
 <h3 align="center">A Software Engineering Student From Tunisia.</h3>
 
-<img align="right" alt="coding" width="400" src="[https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg](https://media4.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif)">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-bguir&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-bguir" /> </p>
