@@ -1,4 +1,5 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)]
+
 <h1 align="center">Hi 👋, I'm Oussama BGUIR</h1>
 <h3 align="center">A Software Engineering Student From Tunisia.</h3>
 
