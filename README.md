@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **oussama.bguir@ieee.org**
 
-- 📄 Know about my experiences [on LinkedIn : https://www.linkedin.com/in/oussama-bguir-9551611a4](on LinkedIn : https://www.linkedin.com/in/oussama-bguir-9551611a4)
+- 📄 Know about my experiences 
+- [on LinkedIn : https://www.linkedin.com/in/oussama-bguir-9551611a4]
 
 - ⚡ Fun fact **"An astronaut who's also a developer? Now that's out-of-this-world! Talk about reaching for the stars in more ways than one!"**
 
